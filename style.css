@@ -38,11 +38,13 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    padding-right: 2%;
 }
 .experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    padding-left: 2%;
 }
 .exp-item{
     width: 40%;
