@@ -13,7 +13,7 @@ h2{
 }
 .flexible-container{
     display: flex;
-    margin: 70px;
+    margin-bottom: 70px;
 }
 .half-width{
     width: 50%;
